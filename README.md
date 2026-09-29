@@ -1,5 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/pixlcore/xyext-test/refs/heads/main/logo.png" height="160" alt="Test Extension"/></p>
-<h1 align="center">SFTP Transfer</h1>
+<h1 align="center">Test Extension</h1>
 
 A test extension for the [xyOps Workflow Automation System](https://xyops.io). It exercises the various extension APIs, and generates some debug log messages.
 
