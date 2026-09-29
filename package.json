@@ -1,6 +1,6 @@
 {
 	"name": "@pixlcore/xyext-test",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A test extension for the xyOps workflow automation system.",
 	"author": "Joseph Huckaby <jhuckaby@pixlcore.com>",
 	"homepage": "https://github.com/pixlcore/xyext-test",
